@@ -1,0 +1,13 @@
+﻿
+@using WebUI.Models.Helpers;
+
+@{
+    ViewBag.Title = "ReadQR";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ReadQR</h2>
+
+@Html.CtrlVideo(id: "preview", style: "preview")
+
+<script src="~/Scripts/Views/ReadQR.js"></script>

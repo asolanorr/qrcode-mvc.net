@@ -1,0 +1,12 @@
+﻿@using WebUI.Models.Helpers;
+
+<script src="~/Scripts/Views/Index.js"></script>
+
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.CtrlInput(id: "text", type: "text", label: "Type whatever you want")
+@Html.CtrlButton(viewName: "Index", id: "btnCreate", label: "Create", onClickFunction: "Create", buttonType: "btn btn-primary")
+@Html.CtrlQRBox(id: "qrcode")

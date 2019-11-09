@@ -1,4 +1,7 @@
 # qrcode-mvc.net
+
+VIDEO: https://youtu.be/hjhXyjnWYsY
+
 Implementación de librerías de JavaScript en un proyecto de ASP.NET.
 
 Un código QR es un código de barras bidimensional cuadrada que puede almacenar los datos codificados. La mayoría del tiempo los datos es un enlace a un sitio web (URL). Un código QR (del inglés Quick Response code, "código de respuesta rápida") es la evolución del código de barras. Es un módulo para almacenar información en una matriz de puntos o en un código de barras bidimensional. La matriz se lee en el dispositivo móvil por un lector específico (lector de QR) y de forma inmediata nos lleva a una aplicación en internet y puede ser un mapa de localización, un correo electrónico, una página web o un perfil en una red social. Fue creado en 1994 por la compañía japonesa Denso Wave, subsidiaria de Toyota. Presenta tres cuadrados en las esquinas que permiten detectar la posición del código al lector. El objetivo de los creadores (un equipo de dos personas en Denso Wave, dirigido por Masahiro Hara) fue que el código permitiera que su contenido se leyera a alta velocidad. Los códigos QR son muy comunes en Japón, donde son el código bidimensional más popular. 
